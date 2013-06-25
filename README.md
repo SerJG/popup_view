@@ -7,7 +7,7 @@ You're free to use the code in whichever way you want. I don't care if you don't
 
 The usage is simple. Just use include popup_view.h and use it like that:
 <p>
-    popup_view *okno = [[popup_view alloc] initWithFrame:CGRectMake(50, 50, 200, 200)];
+    popup_view *okno = [[popup_view alloc] initWithFrame:CGRectMake(50, 50, 200, 200)];</br>
     [self.view addSubview:okno];
 </p>
 
