@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface popup_view : UIView
+@interface PopUpView : UIView
+
+@property (nonatomic) double animationDuration;
 
 @end
